@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devXtoshi
-- 👀 I’m interested in web3, solana, rust, javascript
-- 🌱 I’m currently learning Rust
+- 👀 I’m interested in web3, solana, ethereum, rust, javascript
+- 🌱 I’m currently building dapps on solana blockchain
 - 💞️ I’m looking to collaborate on solana projects
 - 📫 How to reach me @twitter - @devXtoshi
 
